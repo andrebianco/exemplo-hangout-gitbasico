@@ -1,0 +1,11 @@
+#Abaixo, alguns comandos básicos para subir um projeto no GitHub.
+git
+git config user.name "usuario"
+git config user.email "usuario@mail.com"
+git init
+git status
+git remote -v
+git remote add origin https://github.com/usuario/projeto.git 
+git add .
+git commit -m "Importando Projeto"
+git push origin master --force
