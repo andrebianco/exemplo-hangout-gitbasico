@@ -1,4 +1,4 @@
-# exemplo-hangouts
+# exemplo-hangout-gitbasico
 <p>Hangout para discutirmos as funcionalidades básicas do git e do github - Git Básico - Léo Biscassi<p>
 <br>
 Transmitido ao vivo em 22 de jun de 2016
